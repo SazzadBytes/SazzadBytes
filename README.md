@@ -9,7 +9,7 @@
 - Everything that I learned in my journey is very much helpful to becoming a full stack developer
 - I have a little software solution agency where mostly I showcase my work.
   Website ; littleready.com
-- <b> For any kind of information contact: </b>
+- For any kind of information contact:
   Gmail: sazzadbytes@gmail.com
   LinkedIn: https://www.linkedin.com/in/sazzadprofile/
 
